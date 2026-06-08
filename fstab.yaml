@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/anand091997/accs/
+    type: markup
+
+folders:
+  /products/: /products/default
