@@ -1,2 +1,2 @@
-export * from './DemoDropin';
+export * from './MealDropin';
 //# sourceMappingURL=index.d.ts.map

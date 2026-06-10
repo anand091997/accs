@@ -6,6 +6,6 @@
  * file in accordance with the terms of the Adobe license agreement
  * accompanying it.
  *******************************************************************/
-export * from './DemoDropin';
-export { DemoDropin as default } from './DemoDropin';
+export * from './MealDropin';
+export { MealDropin as default } from './MealDropin';
 //# sourceMappingURL=index.d.ts.map

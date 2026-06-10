@@ -6,6 +6,6 @@
  * file in accordance with the terms of the Adobe license agreement
  * accompanying it.
  *******************************************************************/
-export * from './DropinContainer';
-export { DropinContainer as default } from './DropinContainer';
+export * from './MealContainer';
+export { MealContainer as default } from './MealContainer';
 //# sourceMappingURL=index.d.ts.map
